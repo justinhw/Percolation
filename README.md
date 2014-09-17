@@ -38,5 +38,8 @@ Instructions to run the program:
 
     4) Compile and run PercolationVisualizer.java.
     
+    
 
-  ![alt tag](http://puu.sh/bCmfG/4f536fde33.png)
+Example:
+
+![alt tag](http://puu.sh/bCmfG/4f536fde33.png)
