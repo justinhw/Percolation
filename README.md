@@ -26,7 +26,7 @@ The files also use Princeton's StdLib and algs4 libraries.
 
 The files aim to simulate percolation models such as: "what fraction of the materials need to be metallic so that the composite system is an electrical conductor? Given a porous landscape with water on the surface (or oil below), under what conditions will the water be able to drain through to the bottom (or the oil to gush through to the surface)?" - Princeton University. 
 
-Specifically, this program will read in a set of instructions indicating which cells in a given grid to open (if available) and will try to find a route from one end to the other (percolation). The program will indicate at the end whether the system will percolate or not.
+Specifically, this program will read in a set of instructions indicating which cells in a given grid to open (if available) and will try to find a route from one end to the other (percolation). The program will indicate at the end whether the system will percolate or not. To do this, the program uses a weighted quick union algorithm.
 
 Instructions to run the program:
 
